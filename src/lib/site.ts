@@ -40,7 +40,7 @@ export const projects: Project[] = [
     title: "Portfolio",
     description: "This website. Built with Next.js and Tailwind CSS, deployed on Vercel.",
     tags: ["Next.js", "Tailwind CSS", "Vercel"],
-    repo: "https://github.com/jonafirman/portfolio",
+    repo: "https://github.com/jonafirman/portofolio",
     live: "https://jonafirman.vercel.app",
   },
 ];
